@@ -143,7 +143,7 @@ export default {
             {"day": 7, "time": "22:00"},
           ],
         },
-        {"id": 1265, "max": 1, "value": 100, "name": "異界的僕人", schedule: [
+        {"id": 1265, "max": 1, "value": 100, "name": "惡魔公園", schedule: [
             {"day": 1, "time": "19:00"},
             {"day": 2, "time": "22:00"},
             {"day": 3, "time": "08:00"},
