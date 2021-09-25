@@ -92,14 +92,6 @@
 </template>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-HT8M18FPDF"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-HT8M18FPDF');
-</script>
 <script>
 Date.prototype.addDays = function(days) {
     var date = new Date(this.valueOf());
